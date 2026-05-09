@@ -1,1 +1,1 @@
-# Kodled
+# Kod oraz schemat do projektu 
